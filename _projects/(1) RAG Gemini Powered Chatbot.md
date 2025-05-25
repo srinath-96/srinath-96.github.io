@@ -26,5 +26,8 @@ Developed an intelligent aviation data analysis chatbot using Retrieval Augmente
 ## Project Timeline
 January 2025 - Present
 
+## GitHub Repository
+View the source code and documentation on [GitHub](https://github.com/srinath-96/aviation_chatbot).
+
 ## Demo
 [Contact me](mailto:srinathmurali2015@gmail.com) for a demonstration or more information about this project.
