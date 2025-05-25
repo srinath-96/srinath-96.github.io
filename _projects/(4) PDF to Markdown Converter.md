@@ -31,6 +31,9 @@ Developed an intelligent document conversion tool that leverages OCR technology 
 - Document Processing Frameworks
 - Jupyter Notebooks
 
+## GitHub Repository
+View the source code and documentation on [GitHub](https://github.com/srinath-96/Pdf2Markdown).
+
 ## Project Timeline
 May 2025 - Present
 
@@ -40,9 +43,6 @@ This tool is particularly valuable for:
 - Academic paper processing
 - Legacy document digitization
 - Content migration projects
-
-## GitHub Repository
-View the source code and documentation on [GitHub](https://github.com/srinath-96/Pdf2Markdown).
 
 ## Contact
 For more information or to discuss potential applications, please [contact me](mailto:srinathmurali2015@gmail.com).
