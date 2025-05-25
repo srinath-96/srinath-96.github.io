@@ -1,7 +1,31 @@
-- name: Adobe Photoshop
+- name: Power BI
   percentage: 95
+  color: primary
+
+- name: Excel/VLookup
+  percentage: 90
+  color: danger
+
+- name: Metadata Management
+  percentage: 85
+  color: success
+
+- name: Feature Extraction
+  percentage: 85
   color: info
 
-- name: Adobe Illustrator
+- name: MySQL
   percentage: 90
-  color: success
+  color: warning
+
+- name: PySpark/Databricks
+  percentage: 85
+  color: secondary
+
+- name: Google BigQuery
+  percentage: 80
+  color: dark
+
+- name: Snowflake
+  percentage: 80
+  color: primary
