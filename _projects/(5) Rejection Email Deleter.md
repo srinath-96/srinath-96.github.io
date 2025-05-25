@@ -31,6 +31,9 @@ Created an automated solution that leverages natural language processing to iden
 - OAuth2 Authentication
 - Command Line Interface
 
+## GitHub Repository
+View the source code and documentation on [GitHub](https://github.com/srinath-96/Rejection_Email_Deleter).
+
 ## Project Timeline
 April 2025 - Present
 
@@ -40,9 +43,6 @@ The tool helps job seekers by:
 - Keeping inboxes organized during high-volume application periods
 - Saving time on manual email management
 - Providing optional analytics on application response patterns
-
-## GitHub Repository
-View the source code and documentation on [GitHub](https://github.com/srinath-96/Rejection_Email_Deleter).
 
 ## Future Enhancements
 - Web-based user interface
