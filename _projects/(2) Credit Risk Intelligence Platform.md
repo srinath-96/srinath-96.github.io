@@ -29,6 +29,9 @@ Developed a sophisticated multi-agent AI system designed to transform credit ris
 - Financial Modeling Tools
 - Data Visualization
 
+## GitHub Repository
+View the source code and documentation on [GitHub](https://github.com/srinath-96/Credit-Risk-Intelligence-Platform).
+
 ## Project Timeline
 February 2025 - Present
 
