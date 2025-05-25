@@ -1,11 +1,12 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Srinath Murali Krishnan
 description         : >-
-                      I leverage Generative AI to make fun and innovative solutions for Data Professionals.
-baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+                      Versatile data professional familiar with insurance pricing principles, risk modeling concepts, and actuarial compliance processes.
+                      Passionate about data analysis and insight generation.
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : srinath-96/srinath-96.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : yousinix/portfolYOU
-open_new_tab        : true                 # Opens external URLs in new tab (works for posts, projects and navbar only)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : true                     # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -20,30 +21,29 @@ nav_exclude:                                            # The following paths ar
   - pages/index.md
 
 
-
 ### Author Info ###
 author:
   name              : Srinath Krishnan
   image             : https://i.imgur.com/uyDNQnn.jpg
 #  behance           : your_username
-# dribbble          : your_username
+#  dribbble          : your_username
   email             : srinathmurali2015@gmail.com
 #  facebook          : your_username
   github            : www.github.com/srinath-96
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
+#  gitlab            : your_username
+#  instagram         : your_username
+#  kaggle            : your_username
   linkedin          : https://www.linkedin.com/in/srinath-murali-krishnan
 #  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
+#  soundcloud        : your_username
+#  spotify           : your_username
+#  stackoverflow     : your_user_id
+#  tumblr            : your_username.tumblr.com
+#  twitch            : your_username
 #  twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
+#  vimeo             : your_username
+#  youtube           : your_channel_name
+#  keybase           : your_username
 
 
 ### Posts ###
@@ -55,7 +55,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-
 
 
 ### Disqus ###
@@ -73,7 +72,7 @@ analytics:
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
 #buymeacoffee:
- # enabled: false
+#  enabled: false
 #  username: your_username
 #  color: "#007bff"
 #  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
