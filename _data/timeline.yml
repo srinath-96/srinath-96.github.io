@@ -1,17 +1,43 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Computational Linguist, Panlingua LLC
+  from: Jan 2023
+  to: Jun 2023
+  location: Delhi, India
+  description: |
+    • Engineered NLP models using Python and PyTorch to improve model accuracy by 22% through rigorous data analysis and cost optimization techniques
+    • Enhanced sentiment analysis by applying data mining and process optimization strategies, achieving a 50% efficiency improvement
+    • Implemented data pipelines using cloud-based platforms (Azure, Snowflake) to ingest structured and semi-structured data
+    • Worked within Agile framework to write detailed user stories and acceptance criteria for model training workflows
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Data Consultant, PanLingua LLC
+  from: Jun 2022
+  to: Nov 2022
+  location: Delhi, India
+  description: |
+    • Streamlined ETL workflows to reduce data preparation time by 30% using data reporting and margin analysis
+    • Involved in requirements gathering and prototyping UI/UX features for NLP pipeline optimization
+    • Collaborated with cross-functional teams across NLP, product, and engineering domains to translate business requirements
+
+- title: AI Research Assistant, Amrita School of Engineering
+  from: Jan 2020
+  to: May 2023
+  location: Coimbatore, India
+  description: |
+    • Led interdisciplinary research initiatives focused on cost optimization and financial performance improvement in AI systems
+    • Authored four peer-reviewed papers on topics spanning deep learning, computer vision, and natural language processing
+    • Collaborated with faculty to develop scalable machine learning solutions addressing real-world challenges
+
+- title: Master of Science in Business Analytics and AI, University of Texas at Dallas
+  from: Jul 2019
+  to: May 2023
+  location: Dallas, TX
+  description: |
+    • GPA: 3.8/4.0
+    • Coursework: Applied NLP, Agile Methodology, Applied Machine Learning, Mathematical Programming, Operations Research
+
+- title: Bachelor of Technology in Artificial Intelligence, Amrita School of Engineering
+  from: Jul 2019
+  to: May 2023
+  location: Coimbatore, India
+  description: |
+    • GPA: 3.55/4.0
+    • Coursework: MQTT Protocol, Stakeholder management, Industrial Internet of Things, Applied Machine Learning, Statistical Analysis
