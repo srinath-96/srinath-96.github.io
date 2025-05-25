@@ -33,6 +33,9 @@ This project leverages several cutting-edge technologies:
 5. The visualization agent determines and generates the most appropriate visualization
 6. Results are displayed to the user in an intuitive format
 
+## GitHub Repository
+View the source code and documentation on [GitHub](https://github.com/srinath-96/Text-to-SQL-using-AI-Agents).
+
 ## Project Timeline
 March 2025 - Present
 
